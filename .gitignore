@@ -1,4 +1,4 @@
 tmp/
-_old
-_backup
+*.html_old
+*.png_backup
 ._*
